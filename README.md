@@ -1,4 +1,4 @@
 # Weather-App
-![weather](https://github.com/UR07/Weather-App-/assets/130109747/828dd52b-c3b1-4d5a-bd62-518347d6fdc4)
+![Add a little bit of body text](https://github.com/UR07/Weather-App-/assets/130109747/59ef53a5-d9af-46c6-a47b-1ab755d7c852)
 ## Setup
 ### npm i && npm start
